@@ -1,5 +1,4 @@
 import React from 'react';
-import reacticonlarge from "../images/react-icon-large.png";
 
 function Main() {
   return (

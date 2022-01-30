@@ -73,11 +73,10 @@ main {
 
 /* Footer Section */
 .footer {
-  /* display: flex; */
   color: #61DAFB;
-  /* align-items: center; */
   background-color: #21222A;
-  height: 90px;
-  padding: 30px 25px;
+  height: 50px;
+  margin-top: 20px;
+  padding: 15px 25px;
 
 }
